@@ -1,0 +1,5 @@
+C:\Users\subisht\Desktop\TestImages\20171208_183805.jpg		0	0	4032	3024	
+C:\Users\subisht\Desktop\TestImages\20171208_190639.jpg		0	-3024	4032	3024	
+C:\Users\subisht\Desktop\TestImages\20171209_073447.jpg		0	-6048	4032	3024	
+C:\Users\subisht\Desktop\TestImages\20171209_081000.jpg		0	-9072	4032	3024	
+C:\Users\subisht\Desktop\TestImages\20171210_094551.jpg		0	-12096	4032	3024	
