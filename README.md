@@ -1,5 +1,5 @@
 # JpegJoiner
-Joins multiple jpegs vertically.
+Cross platform app that joins multiple jpegs vertically on Linux and Windows OS.
 
 Description: This program “CreateTextureAtlas” reads all the jpeg files from a given folder, then using libjpeg convert all the jpegs into uncompressed format (RGB) one by one. Have all the uncompressed data into a buffer and then finally compress this into jpeg using again libjpeg. This solution expects same resolution for all the pictures, otherwise output would be corrupt. Output jpeg picture follow a certain pattern where pictures are stitched downward. I have not tested that what is the maximum number of input files we can provide.
 
