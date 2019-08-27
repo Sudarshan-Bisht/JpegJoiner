@@ -16,6 +16,6 @@ Building Instructions on Linux:
 Testing:
 1. On Windows, open command prompt, go to CreateTextureAtlas\Release, and type following command;  CreateTextureAtlas.exe inputFolderPath
 2. On Linux, open Terminal, go to CreateTextureAtlas/Release_Linux, and type following command; ./CreateTextureAtlas_Linux inputFolderPath
-3.Output picture i.e. AtlasTextureOutput.jpg will be saved in the same folder.
-4.Output metadata i.e. AtlasTextureMetadata.txt will be saved in the same folder
+3. Output picture i.e. AtlasTextureOutput.jpg will be saved in the same folder.
+4. Output metadata i.e. AtlasTextureMetadata.txt will be saved in the same folder
 
